@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Smart_Pointer", "Smart_Pointer.vcxproj", "{6E931EBF-1824-4543-B772-BB9A1699BD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Debug|x64.ActiveCfg = Debug|x64
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Debug|x64.Build.0 = Debug|x64
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Debug|x86.Build.0 = Debug|Win32
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Release|x64.ActiveCfg = Release|x64
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Release|x64.Build.0 = Release|x64
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Release|x86.ActiveCfg = Release|Win32
+		{6E931EBF-1824-4543-B772-BB9A1699BD5F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B836AEA1-C768-4872-93E1-A1AB8AB80F96}
+	EndGlobalSection
+EndGlobal
